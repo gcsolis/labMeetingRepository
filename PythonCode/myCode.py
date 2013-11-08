@@ -1,4 +1,4 @@
-#varibles 
+#variables 
 a=5
 b=6
 d=8
@@ -8,3 +8,6 @@ f=20
 print a+b
 
 #add your name and what you have done
+
+# Jared Scott
+print (a+b+d+e+f)*f
